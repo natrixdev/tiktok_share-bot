@@ -15,3 +15,6 @@ How to use ?
 Informations : Amount of shares, target url & share sending status 
 ![image](https://user-images.githubusercontent.com/88579983/166118637-055a6b92-f346-47dd-b86d-24f9cefde991.png)
 
+
+#### Full coded by natrix_dev 
+[Github Profile Of The Dev](https://github.com/natrixdev)
