@@ -31,3 +31,7 @@ Informations : Amount of shares, target url & share sending status
 
 #### Full coded by natrix_dev 💪
 [Github Profile Of The Dev](https://github.com/natrixdev)
+
+
+
+[Fork Portection] 
